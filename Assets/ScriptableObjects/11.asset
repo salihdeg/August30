@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8c97470b95332e4e894ac1ccec6c246, type: 3}
+  m_Name: 11
+  m_EditorClassIdentifier: 
+  title: "Hatt\u0131 M\xFCdafaa Yoktur, Sath\u0131 M\xFCdafaa Vard\u0131r. O Sat\u0131h
+    da B\xFCt\xFCn Vatand\u0131r!"
+  description: "9 Temmuz 1921'de Mustafa Kemal Pa\u015Fa, ola\u011Fan \xFCst\xFC
+    yetkilerle ordu komutanl\u0131\u011F\u0131na getirildi. Bu d\xF6nemde Mustafa
+    Kemal'in \xFCnl\xFC \"Hatt\u0131 M\xFCdafaa Yoktur, Sath\u0131 M\xFCdafaa Vard\u0131r.
+    O Sat\u0131h da B\xFCt\xFCn Vatand\u0131r!\" s\xF6z\xFC, vatan\u0131n her kar\u0131\u015F\u0131n\u0131n
+    savunulaca\u011F\u0131 ilkesini vurgulad\u0131."
+  clip: {fileID: 8300000, guid: 2e01fecd52b5dfb4bb591418d354f2c2, type: 3}
+  additionalEvent:
+    m_PersistentCalls:
+      m_Calls: []

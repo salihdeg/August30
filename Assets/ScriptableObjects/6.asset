@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8c97470b95332e4e894ac1ccec6c246, type: 3}
+  m_Name: 6
+  m_EditorClassIdentifier: 
+  title: "TBMM'nin A\xE7\u0131l\u0131\u015F\u0131"
+  description: "23 Nisan 1920'de Ankara'da T\xFCrkiye B\xFCy\xFCk Millet Meclisi
+    a\xE7\u0131ld\u0131. TBMM, milletin temsilcilerinin bir araya geldi\u011Fi yer
+    olarak ulusal iradeyi yans\u0131tt\u0131."
+  clip: {fileID: 8300000, guid: 3906958967f10204ca62728448542ecf, type: 3}

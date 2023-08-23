@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &562523935972925860
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4605268215592489562}
+  - component: {fileID: 1352418218954455369}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4605268215592489562
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 562523935972925860}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1352418218954455369
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 562523935972925860}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b6e594849f768a48a4e6467fe887114, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Sounds:
+  - Name: Istiklal
+    Clip: {fileID: 8300000, guid: 37c1e5acbdab15b43bd21ddd8e9f4f17, type: 3}
+    Volume: 0.2
+    Pitch: 1
+    Loop: 0
+    PlayOnAwake: 0
+    Source: {fileID: 0}
+  - Name: IzmirMarch
+    Clip: {fileID: 8300000, guid: 122b538e0054c144ea22ada93bc6b01d, type: 3}
+    Volume: 0.08
+    Pitch: 1
+    Loop: 0
+    PlayOnAwake: 0
+    Source: {fileID: 0}
+  - Name: Menu
+    Clip: {fileID: 8300000, guid: 73569652e12e6c749b0eac2ecf8aa6c1, type: 3}
+    Volume: 0.08
+    Pitch: 1
+    Loop: 1
+    PlayOnAwake: 1
+    Source: {fileID: 0}
+  Muted: 0

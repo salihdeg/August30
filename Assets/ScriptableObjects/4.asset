@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8c97470b95332e4e894ac1ccec6c246, type: 3}
+  m_Name: 4
+  m_EditorClassIdentifier: 
+  title: "Misak-\u0131 Milli'nin Kabul Edilmesi"
+  description: "28 Ocak 1920'de \u0130stanbul'da toplanan Mebusan Meclisi taraf\u0131ndan
+    kabul edilen Misak-\u0131 Milli, T\xFCrk milletinin ulusal s\u0131n\u0131rlar\u0131n\u0131
+    ve ba\u011F\u0131ms\u0131zl\u0131\u011F\u0131n\u0131 belirledi. Bu belge, milli
+    birlik ve beraberli\u011Fin teminat\u0131 haline geldi."
+  clip: {fileID: 8300000, guid: 92aa33d85d8aa63489c13bf068bdf107, type: 3}

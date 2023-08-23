@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8c97470b95332e4e894ac1ccec6c246, type: 3}
+  m_Name: 8
+  m_EditorClassIdentifier: 
+  title: "D\xFCzenli Orduya Ge\xE7i\u015F - 1. \u0130n\xF6n\xFC Sava\u015F\u0131"
+  description: "1920-1921'de Kuvayi Milliye g\xFC\xE7leri d\xFCzenli bir orduya d\xF6n\xFC\u015Ft\xFCr\xFCld\xFC.
+    \u0130lk \u0130n\xF6n\xFC Sava\u015F\u0131'nda (6-10 Ocak 1921) T\xFCrk ordusu
+    i\u015Fgalcilere kar\u015F\u0131 direndi. Bu d\xFCzenli ordunun kazand\u0131\u011F\u0131
+    ilk zafer oldu."
+  clip: {fileID: 8300000, guid: 48c7ea8bcb10f9a4c895ac4ef81ecf5e, type: 3}

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8c97470b95332e4e894ac1ccec6c246, type: 3}
+  m_Name: 5
+  m_EditorClassIdentifier: 
+  title: "\u0130stanbul'un \u0130\u015Fgali ve Mebusan Meclisi'nin Kapat\u0131lmas\u0131"
+  description: "\u0130\u015Fgalci g\xFC\xE7ler, 16 Mart 1920'de \u0130stanbul'u i\u015Fgal
+    etti. Bunun sonucunda Mebusan Meclisi'nin faaliyetleri de engellenmeye \xE7al\u0131\u015F\u0131ld\u0131
+    ve meclis kapat\u0131ld\u0131."
+  clip: {fileID: 8300000, guid: 3a92db62083e6924da0d6d5477f09f07, type: 3}

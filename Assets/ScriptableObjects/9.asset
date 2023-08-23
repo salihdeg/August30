@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8c97470b95332e4e894ac1ccec6c246, type: 3}
+  m_Name: 9
+  m_EditorClassIdentifier: 
+  title: "2. \u0130n\xF6n\xFC Sava\u015F\u0131"
+  description: "23 Mart - 1 Nisan 1921'de ger\xE7ekle\u015Fen 2. \u0130n\xF6n\xFC
+    Sava\u015F\u0131, T\xFCrk ordusunun kararl\u0131 direni\u015Fi sonucunda i\u015Fgalcilere
+    kar\u015F\u0131 kazan\u0131ld\u0131."
+  clip: {fileID: 8300000, guid: d3a8447079dc1e24aaa26662f8ee056c, type: 3}
+  additionalEvent:
+    m_PersistentCalls:
+      m_Calls: []

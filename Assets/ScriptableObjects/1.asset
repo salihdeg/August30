@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8c97470b95332e4e894ac1ccec6c246, type: 3}
+  m_Name: 1
+  m_EditorClassIdentifier: 
+  title: "Mustafa Kemal'in Samsun'a \xC7\u0131k\u0131\u015F\u0131"
+  description: "19 May\u0131s 1919'da Band\u0131rma Vapuru, Samsun'a yana\u015Ft\u0131\u011F\u0131nda,
+    Mustafa Kemal Pa\u015Fa'n\u0131n karaya ad\u0131m atmas\u0131yla Milli M\xFCcadele'nin
+    temelleri at\u0131ld\u0131. Vatan\u0131n i\xE7inde bulundu\u011Fu zor durum kar\u015F\u0131s\u0131nda,
+    umutsuzlu\u011Fun yerini ayd\u0131nl\u0131k bir gelecek \xF6zlemi ald\u0131."
+  clip: {fileID: 8300000, guid: f264777b36f4a1f4ba8df5984de30565, type: 3}

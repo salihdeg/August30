@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8c97470b95332e4e894ac1ccec6c246, type: 3}
+  m_Name: 3
+  m_EditorClassIdentifier: 
+  title: Amasya Genelgesi, Erzurum ve Sivas Kongreleri
+  description: "22 Haziran 1919'da Amasya Genelgesi ile Milli M\xFCcadele'nin ilk
+    temelleri at\u0131ld\u0131. Ard\u0131ndan Erzurum Kongresi (23 Temmuz - 7 A\u011Fustos
+    1919) ve Sivas Kongresi (4 Eyl\xFCl - 11 Eyl\xFCl 1919) ile milli bir h\xFCk\xFCmet
+    olu\u015Fturulmas\u0131 ve ba\u011F\u0131ms\u0131zl\u0131k m\xFCcadelesinin y\xF6ntemleri
+    belirlendi."
+  clip: {fileID: 8300000, guid: 3a2b7dcfb11943c4fbe156f8396e8996, type: 3}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8c97470b95332e4e894ac1ccec6c246, type: 3}
+  m_Name: 15
+  m_EditorClassIdentifier: 
+  title: "\u0130zmir'in Kurtulu\u015Fu"
+  description: "9 Eyl\xFCl 1922'de Nurettin Pa\u015Fa T\xFCrk ordusuyla \u0130zmir'e
+    girdi. \u0130zmir'in kurtulmas\u0131yla Kurtulu\u015F Sava\u015F\u0131 zaferle
+    sonu\xE7lanm\u0131\u015F oldu."
+  clip: {fileID: 8300000, guid: fd322dde176d2b2419cd03bf3843da34, type: 3}
+  additionalEvent:
+    m_PersistentCalls:
+      m_Calls: []
