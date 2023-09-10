@@ -16,7 +16,7 @@ MonoBehaviour:
   description: "9 Eyl\xFCl 1922'de Nurettin Pa\u015Fa T\xFCrk ordusuyla \u0130zmir'e
     girdi. \u0130zmir'in kurtulmas\u0131yla Kurtulu\u015F Sava\u015F\u0131 zaferle
     sonu\xE7lanm\u0131\u015F oldu."
-  clip: {fileID: 8300000, guid: fd322dde176d2b2419cd03bf3843da34, type: 3}
+  clip: {fileID: 8300000, guid: ab30068d016492747889d68b99a81f3c, type: 3}
   additionalEvent:
     m_PersistentCalls:
       m_Calls: []

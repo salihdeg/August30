@@ -15,7 +15,7 @@ MonoBehaviour:
   title: "B\xFCy\xFCk Taarruz"
   description: "26 A\u011Fustos 1922'de ba\u015Flayan B\xFCy\xFCk Taarruz, T\xFCrk
     ordusu taraf\u0131ndan i\u015Fgalcilere kar\u015F\u0131 kazan\u0131ld\u0131."
-  clip: {fileID: 8300000, guid: 52f5bf376d95d5444b1ba6cf78152f07, type: 3}
+  clip: {fileID: 8300000, guid: 33bf474e23207ba42920a911a1e92b3b, type: 3}
   additionalEvent:
     m_PersistentCalls:
       m_Calls: []

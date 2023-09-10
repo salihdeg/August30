@@ -12,13 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d8c97470b95332e4e894ac1ccec6c246, type: 3}
   m_Name: 14
   m_EditorClassIdentifier: 
-  title: "Ba\u015Fkumandanl\u0131k Meydan Muharebesi: \"Ordular \u0130lk Hedefiniz
+  title: "Ba\u015Fkomutanl\u0131k Meydan Muharebesi: \"Ordular \u0130lk Hedefiniz
     Akdeniz'dir. \u0130leri !\""
-  description: "30 A\u011Fustos 1922'de ger\xE7ekle\u015Fen Ba\u015Fkumandanl\u0131k
+  description: "30 A\u011Fustos 1922'de ger\xE7ekle\u015Fen Ba\u015Fkomutanl\u0131k
     Meydan Muharebesi, T\xFCrk ordusunun zaferiyle sonu\xE7land\u0131. Mustafa Kemal
     Pa\u015Fa, \u0130zmir'in kurtar\u0131lmas\u0131na olanak sa\u011Flayan bu s\xF6zleri
     s\xF6yledi \"Ordular \u0130lk Hedefiniz Akdeniz'dir. \u0130leri!\""
-  clip: {fileID: 8300000, guid: bdd92af8b74f92940ab0468abbb4dc1c, type: 3}
+  clip: {fileID: 8300000, guid: d83a1ff734bb9504dbe5976ab7963a74, type: 3}
   additionalEvent:
     m_PersistentCalls:
       m_Calls: []
